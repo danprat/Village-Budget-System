@@ -34,6 +34,30 @@ All notable changes to the Village Budget System will be documented in this file
   **Description**: Created a detailed design concept for the dashboard, including layout, color scheme, and typography.  
   **Files Modified**:  
   - `design-concept.md`: Added detailed design concept for the dashboard.
+- **Date**: 2025-02-14  
+  **Type of Change**: Added  
+  **Description**: Created a login page for user authentication.  
+  **Files Modified**:  
+  - `src/app/login.tsx`: Implemented the login form with username/email and password fields.
+- **Date**: 2025-02-14  
+  **Type of Change**: Added  
+  **Description**: Created a login page for user authentication.  
+  **Files Modified**:  
+  - `src/app/login.tsx`: Implemented the login form with username/email and password fields.
+- **Date**: 2025-02-16  
+  **Type of Change**: Added  
+  **Description**: Improved the professionalism of the dashboard sidebar.  
+  **Files Modified**:  
+  - `src/app/sidebar.tsx`: Improved the layout and styling of the sidebar.
+  - **Details**:
+    - Commit ID: [PLACEHOLDER_COMMIT_ID](PLACEHOLDER_LINK)
+- **Date**: 2025-02-16  
+  **Type of Change**: Added  
+  **Description**: Improved the professionalism of the dashboard sidebar.  
+  **Files Modified**:  
+  - `src/app/sidebar.tsx`: Improved the layout and styling of the sidebar.
+  - **Details**:
+    - Commit ID: [PLACEHOLDER_COMMIT_ID](PLACEHOLDER_LINK)
 
 ### Modified
 - **Date**: 2025-02-14  
